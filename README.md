@@ -7,3 +7,5 @@
 
 
 ![cppcheck-action](https://github.com/99002439/Online_Bank_Management_System/workflows/cppcheck-action/badge.svg)
+
+![cppcheck-action](https://github.com/99002439/Online_Bank_Management_System/workflows/cppcheck-action/badge.svg)
